@@ -19337,7 +19337,7 @@ GameObject:
   - component: {fileID: 398883379}
   - component: {fileID: 398883378}
   m_Layer: 0
-  m_Name: Lover tornado 3
+  m_Name: Lower tornado 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28845,7 +28845,7 @@ GameObject:
   - component: {fileID: 715434805}
   - component: {fileID: 715434804}
   m_Layer: 0
-  m_Name: Lover tornado
+  m_Name: Lower tornado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48242,7 +48242,7 @@ GameObject:
   - component: {fileID: 1369882892}
   - component: {fileID: 1369882891}
   m_Layer: 0
-  m_Name: Lover tornado 2
+  m_Name: Lower tornado 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
